@@ -1,2 +1,2 @@
 # Invoice-Task
-Task about invoices, payments and orders between cutomers 
+Task about invoices, payments and orders between customers 
